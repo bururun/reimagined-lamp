@@ -1,0 +1,32 @@
+# LampServer
+
+Lightweight HTTP server
+
+## Features
+
+- Core functionality
+- Well-documented code
+- Easy to use API
+- Extensible architecture
+
+## Installation
+
+\`\`\`bash
+npm install
+# or
+pip install -r requirements.txt
+\`\`\`
+
+## Usage
+
+\`\`\`javascript
+const app = require('./src/index');
+\`\`\`
+
+## Updates
+
+- Update 1: Latest improvements and bug fixes
+
+## License
+
+MIT
